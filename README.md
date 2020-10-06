@@ -118,7 +118,7 @@ ruGPT3 large (760M parameters)
 Участникам разрешается использовать любые другие текстовые данные для дообучения модели и реализации своей идеи.
 
 Дополнительные данные от организаторов:
- - [русская вики]()
+ - [русская вики](https://drive.google.com/file/d/1gY6Ly_lJa4j732BItiKAW0Mfus1pFdRs/view?usp=sharing)
  - [github](https://drive.google.com/file/d/1GBNPYJQSdFFVsGk15W2uEx_GsXtWacyD/view?usp=sharing)
  - [ru_stackoverflow](https://drive.google.com/file/d/1l5pJLwRfUExahemBlqKFNmvxtA1muGz2/view?usp=sharing)
  - [ответы mail](https://drive.google.com/file/d/1h-P7VdSWFSd7VClEWwpexD_Fp1Zzi8qN/view?usp=sharing)
