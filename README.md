@@ -92,7 +92,9 @@
 
 
 ## Model
-ruGPT3 large (760M parameters) 
+ruGPT large (760M parameters) based on GPT3 paper
+
+[репозиторий с моделями](https://github.com/sberbank-ai/ru-gpts)
 
 Обучена на:
  - common crawl
@@ -103,7 +105,6 @@ ruGPT3 large (760M parameters)
  - social media
  - books
 
-[ссылка на скачивание весов]()
 
 Пример работы модели - генерация сочиннения ЕГЭ по заданной теме:
 ```
